@@ -2,6 +2,7 @@
 // Created by 李清栋 on 2021/10/30.
 //
 #include <stdio.h>
+#include "day_02/day_02.h"
 
 void swap(int* a,int* b){
     int temp;
@@ -30,6 +31,9 @@ int main() {
     d = *p++;
     printf("%p\n",p);//0x7ffee0be7900
     printf("%d\n",d);
+
+    day02();
+    day03();
     return 0;
 }
 
