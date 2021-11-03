@@ -14,8 +14,3 @@ int day02(){
     return 0;
 }
 
-int day03(){
-    char *str = "helloworld";
-    printf("%s",str);
-}
-

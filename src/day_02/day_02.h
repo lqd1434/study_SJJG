@@ -5,6 +5,5 @@
 #ifndef C_DAY_02_H
 #define C_DAY_02_H
 int day02();
-int day03();
 
 #endif //C_DAY_02_H
